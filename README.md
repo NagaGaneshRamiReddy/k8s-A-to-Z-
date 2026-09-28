@@ -1,6 +1,6 @@
 # k8s-A-to-Z
 
-# ☸️ Kubernetes — Complete Concept + Commands + Examples
+☸️ Kubernetes — Complete Concept + Commands + Examples
 
 ## 1. What is Kubernetes?
 
